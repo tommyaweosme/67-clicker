@@ -1,18 +1,23 @@
 Let's make a game!
   name:67 clicker
 
+Layout
+  use default
+
 Buttons
   *ssButton
     name:Say 67
     desc:Be very annoying!
     on click:yield 1 sixseven
     icon:https://github.com/tommyaweosme/67-clicker/blob/main/button.png
+    no text
     class:bigButton
 
 Resources
   *sixseven
     name:67
     desc:Something a 13-year-old would say in class.
+    icon:https://github.com/tommyaweosme/67-clicker/blob/main/button.png
 
 Upgrades
   *mangoRecipe
