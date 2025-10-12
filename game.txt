@@ -28,6 +28,14 @@ Buildings
     cost:6 sixseven
     unlocked
 
+  *mustard
+    name:Mustard
+    desc:Drink.<br>produces 6 67s per 7 seconds.
+    icon:https://m.media-amazon.com/images/I/718+vnB61YL._UF894,1000_QL80_.jpg
+    on tick:yield 0.85714 sixseven
+    cost:41 sixseven
+		req:41 sixseven:earned
+
 Upgrades
   *mangoRecipe
     name:Mango Recipe
