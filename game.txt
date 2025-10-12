@@ -6,7 +6,7 @@ Buttons
     name:Say 67
     desc:Be very annoying!
     on click:yield 1 sixseven
-    icon:button.png
+    icon:https://github.com/tommyaweosme/67-clicker/blob/main/button.png?raw=true
 
 Resources
   *sixseven
