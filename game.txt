@@ -1,6 +1,13 @@
 Let's make a game!
   name:67 clicker
 
+Buttons
+  *ssButton
+    name:Say 67
+    desc:Be very annoying!
+    on click:yield 1 sixseven
+    icon:button.png
+
 Resources
   *sixseven
     name:67
