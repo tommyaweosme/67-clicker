@@ -22,8 +22,8 @@ Resources
 Buildings
   *mango
     name:Mango
-    desc:Eat.
-    icon:https://i5.walmartimages.com/seo/Fresh-Mangoes-Each-Sweet_cc54242f-cb87-4a25-9baa-fccaa20f5443.64fa79325ad44a7352dcd3c2a8b477be.jpeg<b>produces 0.67 67s per second.
+    desc:Eat.<br>produces 0.67 67s per second.
+    icon:https://i5.walmartimages.com/seo/Fresh-Mangoes-Each-Sweet_cc54242f-cb87-4a25-9baa-fccaa20f5443.64fa79325ad44a7352dcd3c2a8b477be.jpeg
     on tick:yield 0.67 sixseven
     cost:6 sixseven
     unlocked
