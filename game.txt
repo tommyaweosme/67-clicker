@@ -1,0 +1,16 @@
+Let's make a game!
+  name:67 clicker
+
+Resources
+  *sixseven
+    name:67
+    desc:Something a 13-year-old would say in class.
+
+Upgrades
+  *mangoRecipe
+    name:Mango Recipe
+    desc:Unlocks the ability to make mango!
+    
+  *mustardRecipe
+    name:Mustard Recipe
+    desc:Unlocks the ability to make mustard!
