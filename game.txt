@@ -4,6 +4,8 @@ Let's make a game!
 Layout
   use default
 
+// PLUEY
+
 Buttons
   *ssButton
     name:Say 67
@@ -22,15 +24,17 @@ Resources
 Buildings
   *mango
     name:Mango
-    desc:Eat.<br>produces 0.67 67s per second.
+    desc:Eat.<//>produces 0.67 67s per second.
     icon:https://i5.walmartimages.com/seo/Fresh-Mangoes-Each-Sweet_cc54242f-cb87-4a25-9baa-fccaa20f5443.64fa79325ad44a7352dcd3c2a8b477be.jpeg
     on tick:yield 0.67 sixseven
     cost:6 sixseven
     unlocked
 
+// PLUEY
+
   *mustard
     name:Mustard
-    desc:Drink.<br>produces 6 67s per 7 seconds.
+    desc:Drink.<//>produces 6 67s per 7 seconds.
     icon:https://m.media-amazon.com/images/I/718+vnB61YL._UF894,1000_QL80_.jpg
     on tick:yield 0.85714 sixseven
     cost:41 sixseven
@@ -44,3 +48,5 @@ Upgrades
   *mustardRecipe
     name:Mustard Recipe
     desc:Unlocks the ability to make mustard!
+
+// PLUEY
