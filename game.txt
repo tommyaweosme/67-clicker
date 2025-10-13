@@ -38,7 +38,23 @@ Buildings
     icon:https://i.ibb.co/bjRQgQgB/image.png
     on tick:yield 0.85714 sixseven
     cost:41 sixseven
-		req:41 sixseven:earned
+	req:41 sixseven:earned
+
+  *tralalero
+    name:Tralalero Tralala
+    desc:Do not question the Tralalero Tralala.<//>produces two 67 per second.
+    icon:https://i.ibb.co/j9hQGh2T/image.png
+    on tick:yield 2 sixseven
+    cost:367 sixseven
+    req:367 sixseven:earned
+
+  *skibidi
+    name:Skibidi Toilet
+    desc:A head popping out of a toilet. Weakness: flush.<//>produces 67 67s per 4.1 seconds.
+	icon:https://i.ibb.co/v6nYL1my/image.png
+	on tick:yield 16.3414 sixseven
+    cost:2024 sixseven
+    req:2024 sixseven:earned
 
 Upgrades
   *mangoRecipe
