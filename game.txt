@@ -11,7 +11,7 @@ Buttons
     name:Say 67
     desc:Be very annoying!
     on click:yield 1 sixseven
-    icon:https://raw.githubusercontent.com/tommyaweosme/67-clicker/refs/heads/main/button.png
+    icon:https://i.ibb.co/2YKhXvvB/image.png
     no text
     class:bigButton
 
@@ -19,7 +19,7 @@ Resources
   *sixseven
     name:67
     desc:Something a 13-year-old would say in class.
-    icon:https://raw.githubusercontent.com/tommyaweosme/67-clicker/refs/heads/main/button.png
+    icon:https://i.ibb.co/6ctz4SDn/image.png
 
 Buildings
   *mango
