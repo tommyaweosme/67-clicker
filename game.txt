@@ -57,12 +57,10 @@ Buildings
     req:2024 sixseven:earned
 
 Upgrades
-  *mangoRecipe
-    name:Mango Recipe
-    desc:Unlocks the ability to make mango!
-    
-  *mustardRecipe
-    name:Mustard Recipe
-    desc:Unlocks the ability to make mustard!
+  *bombardino
+    name:Bombardino Crocodilo
+    desc:Boom.
+    cost:500 sixseven
+    passive:increase sixseven yield of ssButton by 4
 
 // PLUEY
