@@ -5,21 +5,18 @@ Layout
   use default
 
 CSS
- .bigButton {
+ .actuallyforrealbigbutton {
     width:256px !important;
     height:256px !important;
     display:inline-block !important;
-    overflow:hidden !important;
- }
- .bigButton .icon {
+    position:relative !important;
+    cursor:pointer !important;
+				background-image:url('https://raw.githubusercontent.com/tommyaweosme/67-clicker/refs/heads/main/button.png') !important;
     background-size:contain !important;
     background-repeat:no-repeat !important;
     background-position:center !important;
-    width:100% !important;
-    height:100% !important;
-    image-rendering:pixelated; 
- }
-
+	}
+	
 // PLUEY
 
 Buttons
@@ -29,7 +26,7 @@ Buttons
     on click:yield 1 sixseven
     icon:https://raw.githubusercontent.com/tommyaweosme/67-clicker/refs/heads/main/button.png
     no text
-    class:bigButton
+    class:actuallyforrealbigbutton
 
 Resources
   *sixseven
