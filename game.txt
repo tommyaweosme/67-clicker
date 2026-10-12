@@ -5,12 +5,20 @@ Layout
   use default
 
 CSS
- .bigButton {
+ .bigButton .icon {
     background-size:contain !important;
     background-repeat:no-repeat !important;
     background-position:center !important;
     width:256px !important;
     height:256px !important;
+    image-rendering:pixelated; 
+ }
+ .building .icon {
+    background-size:contain !important;
+    background-repeat:no-repeat !important;
+    background-position:center !important;
+    width:48px !important;
+    height:48px !important;
     image-rendering:pixelated; 
  }
 
