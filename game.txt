@@ -11,7 +11,7 @@ Buttons
     name:Say 67
     desc:Be very annoying!
     on click:yield 1 sixseven
-    icon:https://i.ibb.co/2YKhXvvB/image.png
+    icon:https://raw.githubusercontent.com/tommyaweosme/67-clicker/refs/heads/main/button.png
     no text
     class:bigButton
 
@@ -19,13 +19,13 @@ Resources
   *sixseven
     name:67
     desc:Something a 13-year-old would say in class.
-    icon:https://i.ibb.co/6ctz4SDn/image.png
+    icon:https://raw.githubusercontent.com/tommyaweosme/67-clicker/refs/heads/main/button.png
 
 Buildings
   *mango
     name:Mango
     desc:Eat.<//>produces 0.67 67s per second.
-    icon:https://i.ibb.co/hJqV99fH/image.png
+    icon:https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mangos_-_single_and_halved.jpg/960px-Mangos_-_single_and_halved.jpg
     on tick:yield 0.67 sixseven
     cost:6 sixseven
     unlocked
@@ -35,7 +35,7 @@ Buildings
   *mustard
     name:Mustard
     desc:Drink.<//>produces 6 67s per 7 seconds.
-    icon:https://i.ibb.co/bjRQgQgB/image.png
+    icon:https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/David_holding_mustard.JPG/500px-David_holding_mustard.JPG
     on tick:yield 0.85714 sixseven
     cost:41 sixseven
 	req:41 sixseven:earned
@@ -43,7 +43,7 @@ Buildings
   *tralalero
     name:Tralalero Tralala
     desc:Do not question the Tralalero Tralala.<//>produces two 67 per second.
-    icon:https://i.ibb.co/j9hQGh2T/image.png
+    icon:https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Italian_brainrot_characters.png/500px-Italian_brainrot_characters.png
     on tick:yield 2 sixseven
     cost:367 sixseven
     req:367 sixseven:earned
@@ -51,7 +51,7 @@ Buildings
   *skibidi
     name:Skibidi Toilet
     desc:A head popping out of a toilet. Weakness: flush.<//>produces 67 67s per 4.1 seconds.
-	icon:https://i.ibb.co/v6nYL1my/image.png
+	icon:https://upload.wikimedia.org/wikipedia/en/0/09/Skibidi_toilet_screenshot.webp
 	on tick:yield 16.3414 sixseven
     cost:2024 sixseven
     req:2024 sixseven:earned
