@@ -4,6 +4,16 @@ Let's make a game!
 Layout
   use default
 
+CSS
+ .bigButton {
+    background-size:contain !important;
+    background-repeat:no-repeat !important;
+    background-position:center !important;
+    width:256px !important;
+    height:256px !important;
+    image-rendering:pixelated; 
+ }
+
 // PLUEY
 
 Buttons
